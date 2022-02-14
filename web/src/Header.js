@@ -5,11 +5,11 @@ function Header(){
     return (
         <div style={{padding : 10}}>
             <Container>
-                    <Card className="card border-primary">
+                    <Card className="card">
                         <Card.Body>
                             <Row>
-                                <Col xs lg="3"><h2 style={{color : "#0080ff"}}>เที่ยวไหนดี</h2></Col>
-                                <Col><input className="form-control" style={{width : 500}} placeholder="ค้นหาสถานที่ ..."></input></Col>
+                                <Col xs lg="3"><h1 style={{color : "#0080ff", fontSize : "36px"}}>เที่ยวไหนดี</h1></Col>
+                                <Col><input className="form-control" style={{width : 500, textAlign : 'center'}} placeholder="หาที่เที่ยวแล้วไปกัน"></input></Col>
                             </Row>
                         </Card.Body>
                     </Card>

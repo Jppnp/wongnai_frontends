@@ -20,6 +20,10 @@ function Content(){
                                 <a href="#" className="tag-element">ทะเล</a>
                                 <a href="#" className="tag-element">จุดชมวิว</a>
                             </p>
+                            <br></br>
+                                <img className="images" src="https://img.wongnai.com/p/1600x0/2019/07/02/6a2733ab91164ac8943b77deb14fdbde.jpg"></img>
+                                <img className="images" src="https://img.wongnai.com/p/1600x0/2019/07/02/941dbb607f0742bbadd63bbbd993e187.jpg"></img>
+                                <img className="images" src="https://img.wongnai.com/p/1600x0/2019/07/02/bd1d256256c14c208d0843a345f75741.jpg"></img>
                         </Col>
                 </Row>
                 

@@ -3,8 +3,7 @@
 body {
   margin: 0;
   font-family: 'Prompt', sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue';
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   /* text-align: center; */
@@ -23,16 +22,19 @@ code {
   text-overflow: ellipsis;
 }
 
-.tab {
-  display: inline-block;
-  margin-left: 5px;
-}
-
 .tag {
   display: inline-block;
   font-size: 14px;
 }
+
 .tag-element {
   margin-inline: 5px;
   color: darkgrey;
+}
+
+.images {
+  display: inline-block;
+  width: 30%;
+  margin-inline: 5px;
+  border-radius: 20px;
 }
