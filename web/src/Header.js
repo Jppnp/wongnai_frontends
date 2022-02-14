@@ -9,7 +9,7 @@ function Header(){
                         <Card.Body>
                             <Row>
                                 <Col xs lg="3"><h1 style={{color : "#0080ff", fontSize : "36px"}}>เที่ยวไหนดี</h1></Col>
-                                <Col><input className="form-control" style={{width : 500, textAlign : 'center'}} placeholder="หาที่เที่ยวแล้วไปกัน"></input></Col>
+                                <Col><input className="form-control" style={{width : 500, textAlign : 'center'}} placeholder="หาที่เที่ยวแล้วไปกัน..."></input></Col>
                             </Row>
                         </Card.Body>
                     </Card>

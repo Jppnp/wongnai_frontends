@@ -38,3 +38,7 @@ code {
   margin-inline: 5px;
   border-radius: 20px;
 }
+.link {
+  color: #000;
+  text-decoration: none;
+}
